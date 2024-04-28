@@ -55,8 +55,8 @@
           v-if="!nowLogin || windowWidth >= 650"
           :href="
             nowLogin
-              ? 'https://chivalrous-botany-faf.notion.site/ToyBox-876fd578573a418b99bbfe6d3973aa91'
-              : 'https://chivalrous-botany-faf.notion.site/ToyBox-8ee26f10ff4e45d9aa19a69850b7e68d'
+              ? 'https://simo-simo.notion.site/ToyBox-876fd578573a418b99bbfe6d3973aa91'
+              : 'https://simo-simo.notion.site/ToyBox-8ee26f10ff4e45d9aa19a69850b7e68d'
           "
           target="_blank"
           title="ヘルプ"
